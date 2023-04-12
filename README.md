@@ -21,11 +21,12 @@ In addition, we provide the trained CNN model for more extensive validation.
 
 
 Please cite the below paper if the code was used in your research or development.
-@inproceedings{
-  title={A Scene Adaption Framework for Infant Cry Detection in Obstetrics},
-  author={Huang, Dongmin and Ren, Lirong and Lu, Hongzhou and Wang, Wenjin}, 
-  booktitle={2023 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
-  year={2023}
-}
+    
+    @inproceedings{
+        title={A Scene Adaption Framework for Infant Cry Detection in Obstetrics},
+        author={Huang, Dongmin and Ren, Lirong and Lu, Hongzhou and Wang, Wenjin}, 
+        booktitle={2023 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+        year={2023}
+    }
 
 
