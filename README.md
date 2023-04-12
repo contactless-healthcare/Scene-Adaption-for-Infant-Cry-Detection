@@ -1,5 +1,3 @@
-# A-Scene-Adaption-Framework-for-Infant-Cry-Detection-in-Obstetrics
-
 This is code repository for the paper "A Scene Adaption Framework for Infant Cry Detection in Obstetrics".
 
 
