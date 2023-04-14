@@ -13,7 +13,11 @@ There are six major .py files in this repo, which sequential runs implement infa
     5. Train.py: It consists of two training phases, a supervised training phase based on labeled data from source domain and a unsupervised training phase (scene adaptation) based on unlabeled data from target domain.
     6. Test Demo for record: It provides the demonstration of making predictions to raw records.
     
-    
+
+We provide the UCD dataset we used in this paper: 
+https://drive.google.com/drive/folders/1G4YOMNTP0U5kDYngrMhIECpXzO4xVb3a?usp=sharing
+
+
 In addition, we provide the trained CNN model for more extensive validation.
 
 
