@@ -20,8 +20,6 @@ Please cite below paper if the code was used in your research or development.
         booktitle={2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
         title={A Scene Adaption Framework for Infant Cry Detection in Obstetrics}, 
         year={2023},
-        volume={},
-        number={},
         pages={1-5},
     }
 
