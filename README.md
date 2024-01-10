@@ -15,10 +15,15 @@ We provide the weights of CNN for more extensive testing.
 
 Please cite below paper if the code was used in your research or development.
 
-    @inproceedings{
-        title={A Scene Adaption Framework for Infant Cry Detection in Obstetrics},
-        author={Huang, Dongmin and Ren, Lirong and Lu, Hongzhou and Wang, Wenjin},
-        booktitle={2023 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society},
-        year={2023}
-    }
+   @INPROCEEDINGS{10340693,
+  author={Huang, Dongmin and Ren, Lirong and Lu, Hongzhou and Wang, Wenjin},
+  booktitle={2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
+
+  title={A Scene Adaption Framework for Infant Cry Detection in Obstetrics}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  }
+
 
